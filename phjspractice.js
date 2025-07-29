@@ -99,11 +99,11 @@ let num2 = 20;
 num1 > num2 ? console.log(num1 * 2) : console.log(num1 + num2); */
 
 //bus fare calculator using ternary operator
-let age = 61;
+/* let age = 61;
 let ticketPrice = 757;
 let ticketPercentage = (ticketPrice * 15) / 100;
 age <= 10
   ? console.log("Free Entry")
   : age <= 60
   ? console.log(ticketPrice - parseInt(ticketPercentage))
-  : console.log("Regular ticket fare 800 tk");
+  : console.log("Regular ticket fare 800 tk"); */
